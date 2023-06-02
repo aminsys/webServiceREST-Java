@@ -15,3 +15,7 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# Other directories to ignore:
+Design-Patterns-in-Java/
+SingleResponsibilityPrin/
